@@ -1,0 +1,11 @@
+/home/adam/facebook-contacts/bin/Debug/netcoreapp2.2/facebook-contacts.deps.json
+/home/adam/facebook-contacts/bin/Debug/netcoreapp2.2/facebook-contacts.runtimeconfig.json
+/home/adam/facebook-contacts/bin/Debug/netcoreapp2.2/facebook-contacts.runtimeconfig.dev.json
+/home/adam/facebook-contacts/bin/Debug/netcoreapp2.2/facebook-contacts.dll
+/home/adam/facebook-contacts/bin/Debug/netcoreapp2.2/facebook-contacts.pdb
+/home/adam/facebook-contacts/obj/Debug/netcoreapp2.2/facebook-contacts.csprojAssemblyReference.cache
+/home/adam/facebook-contacts/obj/Debug/netcoreapp2.2/facebook-contacts.csproj.CoreCompileInputs.cache
+/home/adam/facebook-contacts/obj/Debug/netcoreapp2.2/facebook-contacts.AssemblyInfoInputs.cache
+/home/adam/facebook-contacts/obj/Debug/netcoreapp2.2/facebook-contacts.AssemblyInfo.cs
+/home/adam/facebook-contacts/obj/Debug/netcoreapp2.2/facebook-contacts.dll
+/home/adam/facebook-contacts/obj/Debug/netcoreapp2.2/facebook-contacts.pdb
